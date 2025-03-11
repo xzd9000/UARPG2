@@ -1,0 +1,1 @@
+public abstract class Links : UnityEngine.MonoBehaviour { public abstract System.Collections.Generic.IList<object> linked { get; } }
